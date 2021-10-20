@@ -1,0 +1,8 @@
+20 Oktober 2021
+• Update Prebuilt Kernel
+• Add Google Camera GO
+• Permissive Build
+• Reduce the Target Screen density to 320
+• Enable call recording
+• Compile HWUI for Better Performance
+• etc
